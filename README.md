@@ -3,12 +3,9 @@
 ## Have a look 👇
 
 <a href="https://suraj-dev.vercel.app/" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Portfolio-Visit-blue?logo=google-chrome&logoColor=white"
-    alt="Portfolio Website"
-    style="margin-bottom:12px;"
-  />
+  <img src="https://img.shields.io/badge/My%20Portfolio-Open-informational" />
 </a>
+
 
 
 ## My Socials..
