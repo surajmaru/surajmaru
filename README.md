@@ -1,6 +1,17 @@
 ## Hi there I'm SURAJ👋
 
-## Connect with me
+## Have a look 👇
+
+<a href="https://suraj-dev.vercel.app/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Portfolio-Visit-blue?logo=google-chrome&logoColor=white"
+    alt="Portfolio Website"
+    style="margin-bottom:12px;"
+  />
+</a>
+
+
+## My Socials..
 
 <a href="https://youtube.com/@logicsuru?si=OXqG1CIYj2E-21zH" >
   <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" style="margin-bottom: 12px; target="_blank";" />
