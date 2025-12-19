@@ -3,7 +3,7 @@
 ## Have a look 👇
 
 <a href="https://suraj-dev.vercel.app/" target="_blank">
-<img width="500" height="500" alt="Gold_Black_Elegant_Letter_C_S_Logo__2_-removebg-preview" src="https://github.com/user-attachments/assets/9b902ce3-0410-49ad-92c0-ba0458e99471" />
+<img width="100" height="100" alt="Gold_Black_Elegant_Letter_C_S_Logo__2_-removebg-preview" src="https://github.com/user-attachments/assets/9b902ce3-0410-49ad-92c0-ba0458e99471" />
 </a>
 
 
