@@ -4,7 +4,7 @@
 
 <a href="https://suraj-dev.vercel.app/" target="_blank" style="text-decoration:none; display:flex; align-items:center; gap:12px;">
   <img width="100" height="100" alt="Suraj Dev Logo" src="https://github.com/user-attachments/assets/9b902ce3-0410-49ad-92c0-ba0458e99471" /> 
-  <span style="font-size:18px; font-weight:600; color:inherit;">
+  <span style="font-size:18px; font-weight:600; color:inherit; line-height:100px;">
     suraj-dev
   </span>
 </a>
