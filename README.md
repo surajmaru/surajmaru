@@ -6,6 +6,8 @@
 </a>
 
 ## <a href="https://buymeacoffee.com/surajmaru" target="_blank" rel="noopener noreferrer">Support my work ☕</a>
+☕ [Support my work](https://buymeacoffee.com/surajmaru)
+
 
 ## My Socials..
 
