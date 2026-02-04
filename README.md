@@ -1,7 +1,7 @@
 ## Hi there I'm SURAJ👋
 
-## Portfolio 👇
-<a href="https://suraj-dev.vercel.app/" target="_blank" >
+## Career talks 👇
+<a href="https://surajmaru-dev.vercel.app/" target="_blank" >
   <img width="100" height="100" alt="Suraj Dev Logo" src="https://github.com/user-attachments/assets/9b902ce3-0410-49ad-92c0-ba0458e99471" /> 
 </a>
 
