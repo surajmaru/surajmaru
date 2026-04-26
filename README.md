@@ -6,7 +6,7 @@
 </a>
 
 ## Buy me a coffee 
-<a href="https://buymeacoffee.com/surajmaru" target="_blank" rel="noopener noreferrer">Support my work ☕</a>
+<a href="https://buymeacoffee.com/surajmaru" target="_blank" rel="noopener noreferrer">☕</a>
 
 ## My Socials..
 
