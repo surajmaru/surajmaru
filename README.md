@@ -2,7 +2,7 @@
 
 ## My Site 👇
 <a href="https://surajthedev.com" target="_blank" >
-  <img width="100" height="100" alt="Suraj Dev Logo" src="https://github.com/user-attachments/assets/9b902ce3-0410-49ad-92c0-ba0458e99471" /> 
+  <img width="100" height="100" alt="Suraj Dev Logo" border-radius="100%" src="https://github.com/user-attachments/assets/9b902ce3-0410-49ad-92c0-ba0458e99471" /> 
 </a>
 
 ## <a href="https://buymeacoffee.com/surajmaru" target="_blank" rel="noopener noreferrer" style="text-decoration:none"> Buy me a coffee ☕</a>
