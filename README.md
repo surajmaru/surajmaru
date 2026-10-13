@@ -1,6 +1,6 @@
-## Hi there I'm SURAJ👋
+## Hi there I'm SURAJ MARU...
 
-## My Site 👇
+## Checkout my website:
 <a href="https://surajthedev.com" target="_blank" >
   <img width="100" height="100" alt="Suraj Dev Logo" src="https://github.com/user-attachments/assets/9b902ce3-0410-49ad-92c0-ba0458e99471" /> 
 </a>
