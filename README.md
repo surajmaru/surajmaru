@@ -5,8 +5,6 @@
   <img width="100" height="100" alt="Suraj Dev Logo" src="https://github.com/user-attachments/assets/9b902ce3-0410-49ad-92c0-ba0458e99471" /> 
 </a>
 
-## <a href="https://buymeacoffee.com/surajmaru" target="_blank" rel="noopener noreferrer" style="text-decoration:none"> Buy me a coffee ☕</a>
-
 ## Socials...
 
 <div style="display:flex; justify-content:center; align-items:center;">
